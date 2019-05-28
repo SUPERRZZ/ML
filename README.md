@@ -1,6 +1,11 @@
-# 数据分析实战45讲       
-[极客时间-数据分析实战45讲](https://time.geekbang.org/column/intro/147)       
-*实战代码*     
+# Machine Learning   
+1. 决策树   
+2. Bayes   
+3. SVM   
+4. KNN   
+5. K-Means   
+6. EM   
+7. 关联规则挖掘   
 
 # TensorFlow     
 1. TensorFlow 计算模型 --- 计算图（tf.Graph）      
